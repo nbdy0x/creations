@@ -1,0 +1,19 @@
+{
+    "name": "scraper",
+    "slug": "scraper",
+    "author": {
+        "id": 81,
+        "name": "Saepul Alam",
+        "email": "saepulalam713@gmail.com"
+    },
+    "generated_by": "Nobody AI",
+    "description": "test",
+    "language": "python",
+    "tags": [
+        "scraping",
+        "web clone"
+    ],
+    "entry": "web_cloner.py",
+    "license": "MIT",
+    "created_at": "2026-05-27T07:51:35+00:00"
+}
